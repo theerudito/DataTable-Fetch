@@ -1,0 +1,17 @@
+.rdt_TableCol {
+	background-color: #14223b;
+	color: chartreuse;
+}
+.rdt_TableRow {
+	background-color: black;
+}
+
+.rdt_TableCol_Sortable {
+	background-color: #14223b;
+	color: chartreuse;
+}
+
+.rdt_TableCell {
+	background-color: tomato;
+	color: white;
+}
